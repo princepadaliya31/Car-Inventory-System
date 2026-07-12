@@ -6,7 +6,7 @@ A comprehensive, production-ready **Car Dealership Inventory Management System**
 
 🌐 **Deployment Hosting**:
 * **Frontend**: Vercel
-* **Backend**: Render/Railway
+* **Backend**: Render
 * **Database**: MongoDB Atlas
 
 ---
