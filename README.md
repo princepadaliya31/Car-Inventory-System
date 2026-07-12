@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🚗 Car Dealership Inventory System
 
 A full-stack Car Dealership Inventory Management System built using **Java Spring Boot**, **React**, and **MongoDB**, following **Test-Driven Development (TDD)** principles and clean architecture practices.
@@ -159,3 +160,6 @@ npm run test
 =======
 # Car-Inventory-System
 >>>>>>> 61cf4af1929381588745953e944ffb3cf2e6ee1d
+=======
+# Car-Inventory-System
+>>>>>>> 33c4c087a476488f3df5d374d77a37158201dc16
