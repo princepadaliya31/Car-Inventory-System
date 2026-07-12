@@ -130,7 +130,7 @@ Here is a visual walk-through of the application:
 
 ### 2. Vehicle Inventory Dashboard
 *Browse through all available vehicles, search, and filter by criteria.*
-![Inventory Dashboard](screenshotsinventory1.png)
+![Inventory Dashboard](screenshots/inventory.png)
 
 ### 3. Login Page
 *Secure sign-in form for both users and administrators.*
