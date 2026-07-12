@@ -14,7 +14,7 @@
     <name>car-dealership</name>
     <description>Car Dealership Inventory System</description>
     <properties>
-        <java.version>22</java.version>
+        <java.version>21</java.version>
     </properties>
     <dependencies>
         <!-- Spring Boot Starters -->
